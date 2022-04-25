@@ -1,16 +1,11 @@
 {
   "posts": [
     {
-      "id": "0",
-      "title": "I would continue doing this for the rest of my life.",
-      "body": "I have been lying to my wife almost everyday for the last fifteen years. Those expecting an extra-marital affair or soft porn are advised to skip the rest as you will be utterly discouraged in the following lines.",
-      "like": "1"
-    },
-    {
-      "id": "1",
-      "title": "Post 1",
-      "body": "Body 1",
-      "like": "1"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
